@@ -1,0 +1,998 @@
+Name,SURVEY QUESTION 
+,
+,"Note - These questions have been released under a CC BY license. If you use any of them, please let us know and consider sharing the results with us at oer-research-hub@open.ac.uk"
+,
+1_1,What is your age?
+,1. Under 15 years
+,2. 15 - 18 years
+,3. 19 - 24 years
+,4. 25 - 34 years
+,5. 35 - 44 years
+,6. 45 - 54 years
+,7. 55 - 64 years
+,8. 65 - 74 years
+,9. Over 74 years
+,
+,
+1_2,What is your gender?
+,Male
+,Female
+,Transgender
+,
+,
+1_3,Where do you live? 
+,ac – Ascension Island
+,ad – Andorra
+,ae – United Arab Emirates
+,af – Afghanistan
+,ag – Antigua and Barbuda
+,ai – Anguillaal
+,al – Albania
+,am – Armenia
+,an – Netherlands Antilles
+,ao – Angola
+,aq – Antarctica
+,ar – Argentina
+,as – American Samoa
+,at – Austria
+,au – Australia
+,aw – Aruba
+,ax – Aland Islands
+,az – Azerbaijan
+,ba – Bosnia and Herzegovina
+,bb – Barbados
+,bd – Bangladesh
+,be – Belgium
+,bf – Burkina Faso
+,bg – Bulgaria
+,bh – Bahrain
+,bi – Burundi
+,bj – Benin
+,bm – Bermuda
+,bn – Brunei Darussalam
+,bo – Bolivia
+,br – Brazil
+,bs – Bahamas
+,bt – Bhutan
+,bv – Bouvet Island
+,bw – Botswana
+,by – Belarus
+,bz – Belize
+,ca – Canada
+,cc – Cocos (Keeling) Islands
+,"cd – Congo, The Democratic Republic of the"
+,cf – Central African Republic
+,"cg – Congo, Republic of"
+,ch – Switzerlandci
+,ci – Cote d'Ivoire
+,ck – Cook Islands
+,cl – Chile
+,cm – Cameroon
+,cn – China
+,co – Colombia
+,cr – Costa Rica
+,cu – Cuba
+,cv – Cape Verde
+,cx – Christmas Island
+,cy – Cyprus
+,cz – Czech Republic
+,de – Germany
+,dj – Djibouti
+,dk – Denmark
+,dm – Dominica
+,do – Dominican Republic
+,dz – Algeria
+,ec – Ecuador
+,ee – Estonia
+,eg – Egypt
+,eh – Western Sahara
+,er – Eritrea
+,es – Spain
+,et – Ethiopia
+,eu – European Union
+,fi – Finland
+,fj – Fiji
+,fk – Falkland Islands (Malvinas)
+,"fm – Micronesia, Federated States of"
+,fo – Faroe Islands
+,fr – France
+,ga – Gabon
+,gb – United Kingdom
+,gd – Grenada
+,ge – Georgia
+,gf – French Guiana
+,gg – Guernsey
+,gh – Ghana
+,gi – Gibraltar
+,gl – Greenland
+,gm – Gambia
+,gn – Guinea
+,gp – Guadeloupe
+,gq – Equatorial Guinea
+,gr – Greece
+,gs – South Georgia and the South Sandwich Islands
+,gt – Guatemala
+,gu – Guam
+,gw – Guinea-Bissau
+,gy – Guyana
+,hk – Hong Kong
+,hm – Heard and McDonald Islands
+,hn – Honduras
+,hr – Croatia/Hrvatska
+,ht – Haiti
+,hu – Hungary
+,id – Indonesia
+,ie – Ireland
+,il – Israel
+,im – Isle of Man
+,in – India
+,io – British Indian Ocean Territory
+,iq – Iraq
+,"ir – Iran, Islamic Republic of"
+,is – Iceland
+,it – Italy
+,je – Jersey
+,jm – Jamaica
+,jo – Jordan
+,jp – Japan
+,ke – Kenya
+,kg – Kyrgyzstan
+,kh – Cambodia
+,ki – Kiribati
+,km – Comoros
+,kn – Saint Kitts and Nevis
+,"kp – Korea, Democratic People's Republic"
+,"kr – Korea, Republic of"
+,kw – Kuwait
+,ky – Cayman Islands
+,kz – Kazakhstan
+,la – Lao People's Democratic Republic
+,lb – Lebanon
+,lc – Saint Lucia
+,li – Liechtenstein
+,lk – Sri Lanka
+,lr – Liberia
+,ls – Lesotho
+,lt – Lithuania
+,lu – Luxembourg
+,lv – Latvia
+,ly – Libyan Arab Jamahiriya
+,ma – Morocco
+,mc – Monaco
+,"md – Moldova, Republic of"
+,me – Montenegro
+,mg – Madagascar
+,mh – Marshall Islands
+,"mk – Macedonia, The Former Yugoslav Republic of"
+,ml – Mali
+,mm – Myanmar
+,mn – Mongolia
+,mo – Macao
+,mp – Northern Mariana Islands
+,mq – Martinique
+,mr – Mauritania
+,ms – Montserrat
+,mt – Malta
+,mu – Mauritius
+,mv – Maldives
+,mw – Malawi
+,mx – Mexico
+,my – Malaysia
+,mz – Mozambique
+,na – Namibia
+,nc – New Caledonia
+,ne – Niger
+,nf – Norfolk Island
+,ng – Nigeria
+,ni – Nicaragua
+,nl – Netherlands
+,no – Norway
+,np – Nepal
+,nr – Nauru
+,nu – Niue
+,nz – New Zealand
+,om – Oman
+,pa – Panama
+,pe – Peru
+,pf – French Polynesia
+,pg – Papua New Guinea
+,ph – Philippines
+,pk – Pakistan
+,pl – Poland
+,pm – Saint Pierre and Miquelon
+,pn – Pitcairn Island
+,pr – Puerto Rico
+,"ps – Palestinian Territory, Occupied"
+,pt – Portugal
+,pw – Palau
+,py – Paraguay
+,qa – Qatar
+,re – Reunion Island
+,ro – Romania
+,rs – Serbia
+,ru – Russian Federation
+,rw – Rwanda
+,sa – Saudi Arabia
+,sb – Solomon Islands
+,sc – Seychelles
+,sd – Sudan
+,se – Sweden
+,sg – Singapore
+,sh – Saint Helena
+,si – Slovenia
+,sj – Svalbard and Jan Mayen Islands
+,sk – Slovak Republic
+,sl – Sierra Leone
+,sm – San Marino
+,sn – Senegal
+,so – Somalia
+,sr – Suriname
+,st – Sao Tome and Principe
+,su – Soviet Union
+,sv – El Salvador
+,sy – Syrian Arab Republic
+,sz – Swaziland
+,tc – Turks and Caicos Islands
+,td – Chad
+,tf – French Southern Territories
+,tg – Togo
+,th – Thailand
+,tj – Tajikistan
+,tk – Tokelau
+,tl – Timor-Leste
+,tm – Turkmenistan
+,tn – Tunisia
+,to – Tonga
+,tp – East Timor
+,tr – Turkey
+,tt – Trinidad and Tobago
+,tv – Tuvalu
+,tw – Taiwan
+,tz – Tanzania
+,ua – Ukraine
+,ug – Uganda
+,uk – United Kingdom
+,um – United States Minor Outlying Islands
+,us – United States
+,uy – Uruguay
+,uz – Uzbekistan
+,va – Holy See (Vatican City State)
+,vc – Saint Vincent and the Grenadines
+,ve – Venezuela
+,"vg – Virgin Islands, British"
+,"vi – Virgin Islands, U.S."
+,vn – Vietnam
+,vu – Vanuatu
+,wf – Wallis and Futuna Islands
+,ws – Samoa
+,ye – Yemen
+,yt – Mayotte
+,yu – Yugoslavia
+,za – South Africa
+,zm – Zambia
+,zw – Zimbabwe
+,
+,
+,
+1_4,What is your ethnicity?
+,[open]
+,                                                                                                         
+,
+1_5,Is English your first spoken language? 
+,1. Yes
+,2. No
+,"If NO, please specify your first spoken language"
+,                                
+,
+1_6_1,What is your highest educational qualification?
+,UK categories
+,1. No formal qualification
+,2. Lower than A level
+,3. A level or equivalent
+,4. Higher education qualification
+,5. Postgraduate qualification
+,6. Vocational Qualification
+,Other (please specify)
+,
+1_6_2,What is your highest educational qualification?
+,US categories
+,1. High School Diploma
+,2. Attended College
+,3. Associates Degree (two-year)
+,4. Bachelors Degree
+,5. Masters Degree
+,6. PhD or Professional Doctorate
+,7. No formal qualification
+,Other (please specify)
+,
+1_6_3,What is your highest educational qualification?
+,Global categories
+,1. School-leaving qualification (16-18 years)
+,"2. Vocational qualification (i.e. practical, trade-based)"
+,3. College diploma or certificate 
+,4. Undergraduate/Bachelors University degree
+,5. Postgraduate/Graduate School University degree
+,6. No formal qualification
+,Other (please specify)
+,                                                                                   
+,
+1_7,What is your employment status? [Tick all that apply] 
+,1. Full-time employed/self-employed
+,2. Part-time employed/self-employed
+,3. Full-time voluntary work
+,4. Part-time voluntary work
+,5. Full-time student
+,6. Part-time student
+,7. Unwaged and seeking employment
+,8. Unwaged with domestic responsibilities
+,9. Disabled and not able to work
+,10. Retired
+,Other (please specify)
+,                                                                                
+,
+1_8,Do you consider yourself to have a disability? 
+,Yes
+,No 
+,
+1_9,"If you have answered YES to question <xx>, please indicate the nature of your disability (Tick all that apply)                        "
+,1. Blind/partially sighted
+,2. Deaf/hard of hearing
+,3. Speech impediment
+,4. Mobility and dexterity impairment(s)
+,5. Learning difficulties/disabilities
+,6. Neuro-diverse impairment(s)
+,7. Mental health problem(s)
+,8. Long term illness / chronic medical condition        
+,Other (please specify)
+,
+,
+1_10,"In which of these ways, if any, have you accessed the Internet during the past three months? (Select all that apply)"
+,1. Via an Internet-enabled mobile phone (smartphone)
+,2. Via a tablet computer or iPad
+,3. At home using a broadband connection
+,4. At home using a dial-up connection
+,5. Via a games console
+,6. At work
+,7. At an educational institution
+,8. Via a community facility (e.g. a library)
+,9. Via a commercial facility (e.g. cyber café)
+,In another way (please specify)
+,
+,
+1_11,Which of these things have you done in the last year? (Select all that apply)
+,1. Sent an email
+,2. Written a document using word processing software (e.g Word)
+,3. Used presentation software (e.g. PowerPoint)
+,4. Performed calculations with spreadsheet software (e.g. Excel)
+,5. Contributed to a wiki (e.g. Wikipedia)
+,"6. Written a blog post  (e.g. Wordpress, Blogger)"
+,"7. Shared an image online (e.g. Flickr, Instagram, Pinterest)"
+,"8. Posted on a microblogging platform (e.g. Twitter, Tumblr)"
+,9. Took part in a videochat (e.g. Skype)
+,10. Contributed to an Internet forum
+,"11. Contributed to a social network (e.g. Facebook, Google+, MySpace, Beebo)"
+,"12. Used cloud-based storage (e.g. Dropbox, Google Drive)"
+,"13. Shopped online (e.g. eBay, Amazon)"
+,14. Downloaded a podcast (e.g. iTunes)
+,"15. Downloaded a file using a torrent client (e.g. Bittorrent, UTorrent)"
+,16. Filmed and uploaded video content
+,17. Used a virtual learning environment to study or teach (e.g. Moodle. Blackboard)
+,18. Recorded and uploaded a podcast
+,
+,
+,Formal and informal learner-specific independent variable questions
+,
+,
+1_12,What are your main reasons for study? [Formal learners]
+,1. To gain a qualification/credits for further study
+,2. To improve employment prospects
+,3. For professional development
+,4. For personal development
+,5. For leisure or enjoyment
+,6. In connection with voluntary work or caring responsibilities
+,7. To gain confidence or self-esteem 
+,8. As a replacement for college or university education
+,Other (please specify)
+,
+1_13,What is the format of your studies? [Select any that apply.]
+,1. Full-time face-to-face study
+,2. Part-time face-to-face study
+,3. Full-time distance/online study
+,4. Part-time distance/online study
+,5. Full-time blended (face to face and distance/online) study
+,6. Part-time blended (face to face and distance/online) study
+,7. Informal (i.e. with no teacher or tutor support) 
+,Other (please specify)
+,
+,
+1_14,Within which educational contexts do you study?  [Select one]. 
+,1. School education
+,2. Further Education/College
+,3. Higher education/University
+,4. Work-based education
+,5. Personal (one-to-one) tutoring
+,6. Study without a teacher
+,Other (please specify)
+,
+,
+,General filter questions
+1_15,What are your main reasons for using the <site name> resources? 
+,1. Personal interest
+,2. Family interest
+,3. Professional development
+,4. Study related to my work or business
+,5. In connection with my formal studies
+,6. For use when training others at work
+,"7. For use when teaching in an educational institution (e.g. school, college, university, adult learning centre)"
+,8. To find information (rather than study a complete unit)
+,9. For the purpose of sharing with others
+,10. To improve my study skills 
+,11. To improve my non-native language skills 
+,12. Relevant to voluntary work or caring responsibilities
+,Other (please specify)
+,
+,
+,Educator-specific independent variable questions
+1_16,What kind of teaching do you do? (Select any that apply)
+,1. Full-time face to face teaching
+,2. Part-time face-to-face teaching
+,3. Full-time distance/online teaching
+,4. Part-time distance/online teaching
+,5. Full-time blended (face to face and distance/online) teaching
+,6. Part-time blended (face to face and distance/online) teaching
+,7. Work-based training
+,Other (please specify)
+,
+,
+1_17,Within which educational context(s) do you work? (Select any that apply)
+,1. School education (K12)
+,2. Further Education/College
+,3. Higher education/University
+,4. Work-based training
+,5. Personal (one-to-one) tutoring
+,Other (please specify)
+,
+,
+1_18,In which subject area(s) do you usually teach? (Tick any that apply)
+,1. Computing and Information Science
+,2. Psychology and Philosophy
+,3. Religious Studies 
+,4. Social Science 
+,5. Languages & Linguistics 
+,6. Science
+,7. Mathematics
+,8. Arts
+,9. Literature 
+,10. History & Geography 
+,"11. Economics, Business & Management "
+,"12. Applied Science, Technology, Engineering"
+,13. Medicine
+,14. Health & Social Care
+,15. Education Studies
+,16. Physical Education
+,17. Special Education
+,Other (please specify)
+,
+1_19,In which subject area(s) do you usually use open educational resources? (Tick any that apply)
+,1. Computing and information science
+,2. Psychology and Philosophy
+,3. Religious Studies 
+,4. Social Science 
+,5. Languages & Linguistics 
+,6. Science
+,7. Mathematics
+,8. Arts
+,9. Literature 
+,10. History & Geography 
+,"11. Economics, Business & Management "
+,"12. Applied science, technology, engineering"
+,13. Medicine
+,14. Health & Social Care
+,15. Education Studies
+,16. Physical Education
+,17. Special Education
+,Other (please specify)
+,
+,
+1_20,For how many years have you been teaching? 
+,1. Under 1 year
+,2. 1 to 3 years
+,3. 4 to 6 years
+,4. 7 to 10 years
+,5. Over 10 years
+,
+,
+1_21,Which of the following activities have you done in the past year? (Tick all that apply)
+,1. Used Twitter or other social networking to share information
+,2. Maintained a personal blog or wiki
+,3. Presented your work at research events (e.g. conferences)
+,4. Presented your work at staff development events
+,5. Published podcasts or other audio/video online
+,6. Used social bookmarking or similar to share links
+,7. Deposited a resource into an open repository
+,8. Shared resources in response to requests via mailing lists or email
+,9. Published books or study guides with a commercial publisher
+,10. Published research or teaching presentations publicly online
+,"11. Linked to online content when writing reports, papers, etc."
+,12. Published a paper in an academic journal
+,
+,
+,QUESTIONS FOR EACH HYPOTHESIS FOLLOW
+,HYPOTHESIS A 
+,“Use of OER leads to improvement in student performance and satisfaction”
+,
+2_1,"Based on your experience as a teacher, to what extent do you agree with the following statements? "
+,Use of open educational resources (e.g. <OpenLearn/Connexions> content in the classroom...
+,"[Strongly agree, agree, neither agree nor disagree, disagree, strongly disagree]"
+,1.  Increases learners' participation in class discussions
+,2. Increases learners' interest in the subjects taught
+,3. Increases learners' satisfaction with the learning experience
+,4. Leads to improved student grades
+,5. Builds learners' confidence
+,6. Develops learners' increased independence and self-reliance
+,7. Allows me to better accommodate diverse learners' needs
+,8. Increases learners' engagement with lesson content
+,9. Increases learners' experimentation with new ways of learning
+,10. Increases collaboration and/or peer-support amongst learners
+,11. Increases learners’ enthusiasm for future study
+,12. Leads to learners becoming interested in a wider range of subjects than before they used OER
+,I have not used OER content in the classroom 
+,Further comments [open-ended]
+,
+2_2,"In which of these ways, if any, has your use of open educational resources made an impact on your formal studies? (Tick all that apply) [Learners]"
+,Using open educational resources <OpenLearn content / Connexions content> has led to my... 
+,
+,1. Increased participation in class discussions
+,2. Increased interest in the subjects taught
+,3. Increased satisfaction with the learning experience
+,4. Grades improving
+,5. Gaining confidence
+,6. Having increased independence and self-reliance
+,7. Increased engagement with lesson content
+,8. Increased experimentation with new ways of learning
+,9. Increased collaboration with my peers
+,10. Increased enthusiasm for future study
+,11. Becoming interested in a wider range of subjects than before I used these resources
+,12. Being more likely to complete my course of study
+,Further comments [open-ended].
+,
+,
+,HYPOTHESIS B 
+,“The open aspect of OER creates different usage and adoption patterns than other online resources”
+,
+,TEXT: About open educational resources
+,"Open Educational Resources are teaching, learning or research materials that are in the public domain or released with an intellectual property license that allows for free use, adaptation, and distribution.. Open educational resources can be in many formats, including open textbooks, complete courses and small assets such as videos."
+,Many free online resources are open educational resources.
+,
+3_1,"In which of these ways, if any, have you used or created open educational resources (OER)? [Tick all that apply]"
+,1. I have used open educational resources
+,2. I have adapted open educational resources to fit my needs
+,3. I have created open educational resources for study or teaching
+,4. I have created resources myself and published them on a Creative Commons (CC) licence
+,5. I have added a resource to a repository
+,6. I have downloaded a resource from a repository
+,7. I have added comments to a repository regarding the quality of a resource
+,8. I have added comments to a repository suggesting ways of using a resource
+,9. I have not used or created open educational resources
+,Other (please specify)
+,[Learners]
+,10. I have used open educational resources in the context of my studies 
+,11. I have taken a course comprised of open educational resources
+,
+,
+3_2,"[Educators] Which, if any, of the following types of open educational resources have you used for teaching/training? (Select all that apply)"
+,1. Open textbooks
+,2. Whole course
+,3. Elements of a course (e.g. a module/unit)
+,4. Videos
+,5. Audio podcasts
+,6. Images
+,7. Infographics
+,8. Interactive games
+,9. Lectures
+,10. Lesson plans
+,11. Tutorials
+,12. Quizzes
+,13. E-books
+,14. Data sets
+,"15. Learning tools, instruments and plugins"
+,Other (please specify)
+,
+3_3,"[Learners] Which, if any, of the following types of open educational resources have you used? (Tick all that apply)"
+,1. Open textbooks
+,2. Whole course
+,3. Elements of a course (e.g. a module/unit)
+,4. Videos
+,5. Audio podcasts
+,6. Images
+,7. Infographics
+,8. Interactive games
+,9. Lectures
+,10. Lesson plans
+,11. Tutorials
+,12. Quizzes
+,13. E-books
+,14. Data sets
+,"15. Learning tools, instruments and software plugins"
+,Other (please specify)
+,
+,
+3_4,[Educators] For which of the following purposes have you used educational resources in the context of your teaching/training? (Select all that apply)
+,1. To prepare for my teaching/training
+,2. To get new ideas and inspiration.
+,3. To supplement my existing lessons or coursework
+,4. As ‘assets’ (e.g. images or text extracts) within a classroom lesson
+,5. To give to learners as compulsory self-study materials
+,6. To give to learners as optional self-study materials
+,7. To provide e-learning materials to online learners.
+,8. To compare them with my own teaching/training materials in order to assess the quality of my materials
+,9. To broaden the range of my teaching methods 
+,10. To broaden the range of resources available to my learners
+,11. To make my teaching more culturally diverse [or responsive]
+,12. To enhance my professional development
+,13. To stay up-to-date in a subject or topic area
+,14. To learn about a new topic
+,15. To engage my students more fully in a topic area
+,16. To connect with teachers or learners who have similar interests (e.g. by reading comments they have posted about resources)
+,17. To interest hard-to-engage learners
+,Other (please specify).
+,
+,
+3_5,[Learners] For what purposes have you used open educational resources? (Tick all that apply)
+,1. Personal development
+,2. Leisure or enjoyment 
+,3. Study connected with employment
+,4. Training others at work
+,"5. Teaching in an educational institution (e.g. school, college, university, adult learning centre)"
+,6. To find information (rather than study a complete unit)
+,7. To supplement my higher education study
+,8. To supplement my college study
+,9. To supplement other types of formal study 
+,10. To improve my study skills
+,11. To improve my non-native language skills
+,12. In connection with a business
+,Other (please specify):
+,
+,
+3_6,"[Learners] Which, if any, of the following factors influenced your decision to use open educational resources <or give repository name, e.g. Connexions>? (Tick all that apply) "
+,1. The opportunity to study at reduced or no cost
+,2. The chance to try university-level content before signing up for a paid-for course
+,3. The materials can be used flexibly
+,4. The materials can be accessed at any time
+,5. The materials can be studied online
+,6. A desire to have a learning experience/study a course
+,7. A need to find information (but not to study a course)
+,Another factor (please specify)
+,
+,
+3_7,"[Learners & educators]. In which ways, if any, do you share information about the open educational resources that you find? (Select all that apply)"
+,1. Via email
+,2. Via a mailing list
+,"3. Via a social network (e.g. Facebook, Google+, MySpace, Beebo)"
+,"4. Via blogging (e.g. Wordpress, Blogger)"
+,"5. Via a video tube site (e.g. YouTube, Daily Motion, Vimeo)"
+,6. Via an internet forum
+,7. Published on a personal website
+,"8. Via microblogging (e.g. Twitter, Tumblr)"
+,9. Via curation services (e.g. Scoopit)
+,"10. Via image sharing services  (e.g. Flickr, Instagram, Pinterest)"
+,"11. Via cloud-based storage (e.g. Dropbox, Google Drive)"
+,12. Via podcast
+,13. Via virtual learning environment (VLE)  (e.g. Moodle. Blackboard) or intranet
+,14. In person
+,15. I don’t share information about open educational resources
+,Other sharing method (please specify)
+,
+,
+3_8,[Educators & Learners] Which OER repositories or educational sites have you used?
+,1. iTunes/iTunesU  
+,2. YouTube/YouTubeEdu/YouTubeSchool 
+,3. TED talks/TED-Ed
+,4. Merlot 
+,5. OpenLearn 
+,6. Khan Academy 
+,7. Jorum 
+,8. Curriki
+,9. Connexions 
+,10. CK-12 
+,11. Wikibooks   
+,12. MIT Open Courseware 
+,13. Creative Commons 
+,14. Saylor Foundation
+,"15. Massively Open Online Courses (MOOC) (e.g. FutureLearn, MITx, Coursera, etc.)"
+,16. I have not used any of these sites
+,Other (please specify)
+,
+,
+,
+3_9,"[Educators & learners] What difference, if any, has your use of open educational resources made to your sharing practices? [Open]"
+,
+,
+3_10,[Educators & learners] In which subject area(s) do you usually create or use learning resources? (Select all that apply)
+,1. Computing and information science
+,2. Psychology and Philosophy
+,3. Religious Studies 
+,4. Social Science 
+,5. Languages & Linguistics 
+,6. Science
+,7. Mathematics
+,8. Arts
+,9. Literature 
+,10. History & Geography 
+,"11. Economics, Business & Management "
+,"12. Applied science, technology, engineering"
+,13. Medicine
+,14. Health & Social Care
+,15. Education Studies
+,16. Physical Education
+,17. Special Education
+,Other (please specify)
+,
+,
+3_11,[Formal learners] In which subject area(s) are you studying and in which subject area(s) do you usually use learning resources? [I am studying in this subject area / I use open educational resources in this subject area]
+,1. Computing and information science
+,2. Psychology and Philosophy
+,3. Religious Studies 
+,4. Social Science 
+,5. Languages & Linguistics 
+,6. Science
+,7. Mathematics
+,8. Arts
+,9. Literature 
+,10. History & Geography 
+,"11. Economics, Business & Management "
+,"12. Applied science, technology, engineering"
+,13. Medicine
+,14. Health & Social Care
+,15. Education Studies
+,16. Physical Education
+,17. Special Education
+,Other (please specify)
+,
+,
+3_12,"[Educators] Which challenges, if any, do you most often face in using open educational resources? (Select all that apply)"
+,1. Overcoming technology problems when downloading resources
+,2. Knowing where to find resources
+,3. Finding suitable resources in my subject area
+,4. Finding resources of sufficiently high quality
+,5. Finding resources that are up-to-date
+,6. Finding resources that are relevant to my local context
+,7. Getting work colleagues/managers to accept the use of open educational resources
+,8. Not being skilled enough to edit resources to suit my own context
+,"9. Not knowing whether I have permission to use, change or modify resources"
+,10. Not having enough time to look for suitable resources
+,11. Not having connections with open educational resource-using peers who could be a source of support
+,12. Missing/needing the support of a tutor or teacher to help me work through open course materials
+,13. Not knowing how to use the resources in the classroom
+,14. Not having enough time/opportunities to experiment with using open educational resources in the classroom
+,15. Lacking institutional support for my use of open educational resources
+,16. Resources not being aligned with professional standards or regulation
+,17. Alignment with recognition and/or certification
+,Other (please specify)
+,
+,
+,IMAGE: Creative Commons logo
+,http://mirrors.creativecommons.org/presskit/icons/cc.large.png
+,"“A license is a document that specifies what can and cannot be done with a work (whether sound, text, image or multimedia). It grants permissions and states restrictions. Broadly speaking, an open license is one which grants permission to access, re-use and redistribute a work with few or no restrictions.” Open Definition http://opendefinition.org/guide/"
+,
+,
+3_13,[Educators & learners] What do you know about this logo?
+,1. I've never seen it
+,2. I've seen it but I don't know what it means
+,3. I've seen it and I know what it means
+,
+,
+3_14,[Educators] How important is open licensing to you when using resources in your teaching? [5 point L-Scale Very important...Not at all important]
+,Further comments
+,
+,
+3_15,[Learners] How important is open licensing to you when using open educational resources?  [5 point L-scale Very important...Not at all important]
+,Further comments
+,
+,
+,HYPOTHESIS C
+,"“Open education models lead to more equitable access to education, serving a broader base of learners than traditional education”"
+,The survey should be able to provide data through a combination of demographics information  and the responses to questions for hypotheses A and B.  No specific questions for this hypothesis.
+,
+,HYPOTHESIS D
+,“Use of OER is an effective method for improving retention for at-risk students”
+,NOTES: This hypothesis will perhaps be best answered through (1) Comparison of demographic information with general figures/national averages; (2) Using metrics for identifying typically at-risk students from the demographic information. (3) Case study qualitative research based around interviews. (4) Institution-provided retention figures.
+,Note - this question need not stand alone but can be added to the hypothesis A matrix.
+,
+,
+,[Educators] To what extent do you agree with the following statement: 
+4_1,"Using open educational resources increases the likelihood of at-risk students continuing with their studies (strongly agree, agree, neither agree nor disagree, disagree, strongly disagree)[ac]"
+,Further comments
+,
+,
+4_2,"[Educators] In your experience, do any of the following aspects of open educational resources help improve retention for students who are at risk of dropping out of their course of study? (Select all that apply)"
+,1. Reduced cost of study materials
+,2. Greater range of learning methods
+,3. Materials can be used flexibly
+,4. Materials can be accessed at any time
+,5. Materials can be adapted to suit student needs
+,6. Use of resources for improving study skills
+,7. Materials can be used for improving non-native language skills
+,8. Materials are available in different languages
+,9. Availability of culturally-relevant materials
+, Other (please specify)
+,
+,
+,
+,HYPOTHESIS E
+,"“Use of OER leads to critical reflection by educators, with evidence of improvement in their practice”"
+,
+,
+5_1,"[Educators] To what extent do you agree with the following statements about the impact on your teaching practice of your using open educational resources? [strongly agree, agree, neither agree nor disagree, disagree, strongly disagree]"
+,1. I have broadened my coverage of the curriculum
+,2. I use a broader range of teaching and learning methods
+,3. I have improved ICT skills 
+,4. I make use of a wider range of multimedia
+,5. I make more use of culturally diverse resources
+,6. I have a more up-to-date knowledge of my subject area
+,7. I reflect more on the way that I teach
+,8. I more frequently compare my own teaching with others
+,9. I now use OER study to develop my teaching
+,10. I collaborate more with colleagues
+,11. Further comments about the impact on your teaching of using open educational resources
+,
+,
+,HYPOTHESIS F
+,“OER adoption at an institutional level leads to financial benefits for students and/or institutions”
+,
+,
+6_1,[Learners] Have you saved money by using open educational resources? 
+,1. Yes
+,2. No
+,3. Don’t Know 
+,Further comments
+,
+,
+6_2,[Educators] Do you believe that your students have saved money by using open educational resources? 
+,1. Yes
+,2. No
+,3. Don’t Know 
+,Further comments
+,
+,
+6_3,[Educators and learners] Do you think that your institution benefits financially by using OER? 
+,1. Yes
+,2. No
+,3. Don’t Know 
+,Further comments
+,
+,
+,HYPOTHESIS G
+,Informal learners use a variety of indicators when selecting OER
+,
+,
+7_1,[Educators & learners] Which of the following factors would make you more likely to select a particular resource when searching for open educational content? 
+,1. Evidence of interest in that resource (e.g. lots of downloads)
+,"2. The resource being recently created, uploaded or updated"
+,3. The resource being easy to download
+,4. A description of learning objectives or outcomes being provided
+,5. The resource being created/uploaded by a reputable/trusted institution or person
+,6. The resource having a Creative Commons license
+,7. The resource having an open license allowing adaptation
+,8. The length/complexity of the resource
+,9. Use of interactive or multimedia content (e.g. video or quiz) in the resource
+,10. Positive user ratings or comments about the resource
+,11. Personal recommendation
+,12. Having previously used this resource successfully
+,13. The resource being relevant to my particular interests/needs
+,14. The resource featuring a catchy title or attractive image(s)
+,15. Being required to use a resource for a project or study task
+,16. The resource having  previously been used with students [teacher only question]
+,17. A detailed description of the resource content being provided
+,Other (please specify)/Further comments
+,
+,
+,HYPOTHESIS H
+,"“Informal learners adopt a variety of techniques to compensate for the lack of formal support, which can be supported in open courses”"
+,"TEXT: Informal learning is the activity of understanding, gaining knowledge or acquiring skills that occurs outside of formal educational institutions. This kind of learning typically occurs without teacher/tutor support.  "
+,
+,
+8_1,"[All learners] Which, if any, of these techniques have you used to support your learning with open educational resources? [Tick all that apply]"
+,"1. Discussion with others via social networks (e.g. Facebook, Google+, MySpace)"
+,2. Discussion in online forums
+,3. Discussion with others in person
+,"4. Discussion via microblogging (e.g. Twitter, Tumblr)"
+,"5. Discussion via videochat (e.g. Skype, Google Hangout, Facebook)"
+,6. Consulting and/or editing wikis (e.g. Wikipedia)
+,7. Writing or reading blogs
+,8. Writing my own study notes
+,9. Informal study groups
+,10. Use of a learning journal/diary
+,"11. Use of additional resources such as CDs, books, video and podcasts"
+,12. Use of a study calendar/plan
+,Other learning support technique (please specify)
+,
+,
+,
+,HYPOTHESIS I
+,"“Open education acts as a bridge to formal education, and is complementary, not competitive, with it” "
+,
+,
+9_1,"[Informal learners] As a result of using <specify repository>, are you more or less likely to do any of the following? [More likely – no change – less likely - don’t know]"
+,1. Study a free course / study a free open educational resource
+,2. Enrol on a paid-for course
+,3. Enrol on a paid-for course and work towards a qualification
+,4. Do further research in the subject you are interested in
+,5. Download more materials from <specify repository>
+,6. Make use of <specifiy source e.g. OpenLearn> materials for teaching
+,7. Share <specifiy source e.g. OpenLearn> materials with others
+,8. Recommend <specifiy source e.g. OpenLearn> free content to others
+,Further comments
+,
+,
+9_2,"[Formal learners] As a student, did you study your subject via open educational resources before joining your course? "
+,1. Yes
+,2. No
+,3. Not sure
+,Further comments
+,
+,
+9_3,[Formal learners] Did your use of open educational resources influence your decision to register for your current course of study? 
+,1. Yes
+,2. No
+,3. Not sure
+,Further comments
+,
+,
+,HYPOTHESIS J
+,“Participation in OER pilots and programs leads to policy change at institutional level”
+,
+,
+10_1,[Educators] Does your institution have a policy with respect to using or creating open educational resources? 
+,1. Yes
+,2. No
+,3. Don’t know
+,Further comments
+,
+,
+,HYPOTHESIS K
+,“Informal means of assessment are motivators to learning with OER”
+,
+,
+11_1,"[Learners & educators.] In your use of open educational resources, which of the following features have you encountered?"
+,1. Being issued with a certificate for participating or completing the course
+,2. Being allowed to progress to the next section if I completed an automatically graded test correctly
+,3. Being able to work through the course with other people
+,4. Having an educator or instructor available to provide support
+,5. Being provided with hints or advice about how to answer a question or perform a task when I clicked on a button
+,6. Being allowed to look back and review my progress through the course
+,7. Being allowed to check whether I had answered a question correctly
+,8. Being given automated feedback on submitted work
+,9. Being allowed to talk with other learners on the course about my experiences (e.g.through forums)
+,"10. The resource being part of a series of open, online courses which contributed to a recognised qualification"
+,11. Being presented with a series of challenges to complete in order to demonstrate skills development
+,"12. Being rewarded for participation, skills or knowledge through an online “badge”"
+,13. Being required to complete tasks for which an instructor would give feedback
+,14. Being required to complete tasks for which other students would give feedback
+,15. The resource/course being structured to take place over a specific timeframe
+,16. There being virtual seminars where students could interact with each other and an instructor
+,17. Working collaboratively with other people to complete tasks
+,Further comments 
+,
+11_2,"[Learners & educators.] In your use of open educational resources, which of the following features have motivated you to study?"
+,1. Being issued with a certificate for participating or completing the course
+,2. Being allowed to progress to the next section if I completed an automatically graded test correctly
+,3. Being able to work through the course with other people
+,4. Having an educator or instructor available to provide support
+,5. Being provided with hints or advice about how to answer a question or perform a task when I clicked on a button
+,6. Being allowed to look back and review my progress through the course
+,7. Being allowed to check whether I had answered a question correctly
+,8. Being given automated feedback on submitted work
+,9. Being allowed to talk with other learners on the course about my experiences (e.g.through forums)
+,"10. The resource being part of a series of open, online courses which contributed to a recognised qualification"
+,11. Being presented with a series of challenges to complete in order to demonstrate skills development
+,"12. Being rewarded for participation, skills or knowledge through an online “badge”"
+,13. Being required to complete tasks for which an instructor would give feedback
+,14. Being required to complete tasks for which other students would give feedback
+,15. The resource/course being structured to take place over a specific timeframe
+,16. There being virtual seminars where students could interact with each other and an instructor
+,17. Working collaboratively with other people to complete tasks 
+,
+,Further comments
+,
+,-------------------------------------------------------------------
