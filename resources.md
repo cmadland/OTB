@@ -2,6 +2,8 @@
 
 [Florida Student Textbook Survey](http://www.openaccesstextbooks.org/pdf/2016_Florida_Student_Textbook_Survey.pdf)
 
+[IRRODL Special Issue: _Outcomes of Openness: Empirical Reports on the Implementation of OER_](http://www.irrodl.org/index.php/irrodl/issue/view/85)
+
 ### OER Hub Researcher Pack
 
 [Pressbooks Version](https://oerhub.pressbooks.com/)
