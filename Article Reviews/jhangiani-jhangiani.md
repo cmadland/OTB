@@ -1,0 +1,6 @@
+Jhangiani, R. S., & Jhangiani, S. (2017). Investigating the Perceptions, Use, and Impact of Open Textbooks: A survey of Post-Secondary Students in British Columbia. _The International Review of Research in Open and Distributed Learning; Vol 18, No 4 (2017): Special Issue: Outcomes of Openness: Empirical Reports on the Implementation of OER._ Retrieved from http://www.irrodl.org/index.php/irrodl/article/view/3012/4214
+
+- Jhangiani and Jhangiani (2017) report that respondents to their 2015 survey on the impact of Open Textbook use indicated that they value open textbooks based on their perceived high value relative to commercial textbooks, the fact that they were available for free at the very beginning of the class, and that they are highly portable.
+- Jhangiani and Jhangiani found that the high cost of textbooks disproportionately economically disadvantaged students.
+- textbook costs may lead to extended time to graduation, increasing student loan debt load after graduation.
+- student preference for printed materials is based on the ability to mark-up, highlight, and easily find content. Since all of these capabilities are built into modern web interfaces, it is possible that students lack digital literacy skills to interact with modern web resources.
