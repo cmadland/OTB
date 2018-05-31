@@ -21,5 +21,26 @@
 
 ### Literature Review
 
+Incentivizing the Production and Use of Open
+Educational Resources in Higher Education Institutions
+http://www.irrodl.org/index.php/irrodl/article/view/3009/4194
+
+
+Open Educational Resources and Student Course
+Outcomes: A Multilevel Analysis
+http://www.irrodl.org/index.php/irrodl/article/view/3118/4196
+
+The Adoption of an Open Textbook in a Large Physics
+Course: An Analysis of Cost, Outcomes, Use, and
+Perceptions
+http://www.irrodl.org/index.php/irrodl/article/view/3006/4200
+
+Investigating the Perceptions, Use, and Impact of Open Textbooks: A survey of Post-Secondary Students in British Columbia
+http://www.irrodl.org/index.php/irrodl/article/view/3012/4206
+
+
+
+
+
 
 
