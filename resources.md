@@ -38,6 +38,7 @@ http://www.irrodl.org/index.php/irrodl/article/view/3006/4200
 Investigating the Perceptions, Use, and Impact of Open Textbooks: A survey of Post-Secondary Students in British Columbia
 http://www.irrodl.org/index.php/irrodl/article/view/3012/4206
 
+BC findings:
 
 
 
