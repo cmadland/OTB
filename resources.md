@@ -38,7 +38,11 @@ http://www.irrodl.org/index.php/irrodl/article/view/3006/4200
 Investigating the Perceptions, Use, and Impact of Open Textbooks: A survey of Post-Secondary Students in British Columbia
 http://www.irrodl.org/index.php/irrodl/article/view/3012/4206
 
-BC findings:
+-no published Canadian studies of students' perceptions of OER
+- this study's sample consisted of 320 undergraduate students enrolled in 19 courses at 12 BC post-secondary institutions
+-Canadian students spend approximately $250 per semester on textbooks (median respondent)
+
+
 
 
 
