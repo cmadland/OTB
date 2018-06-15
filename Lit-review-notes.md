@@ -5,9 +5,10 @@
 - tuition at TWU more in line with US schools `talk to scott f or bob n about specific data`
 
 
-by articles
+## Articles
 
 ### Investigating the Perceptions, Use, and Impact of Open Textbooks: A survey of Post-Secondary Students in British Columbia
+Jhangiani, R. S., & Jhangiani, S. (2017). Investigating the Perceptions, Use, and Impact of Open Textbooks: A survey of Post-Secondary Students in British Columbia. _The International Review of Research in Open and Distributed Learning; Vol 18, No 4 (2017): Special Issue: Outcomes of Openness: Empirical Reports on the Implementation of OER._ Retrieved from http://www.irrodl.org/index.php/irrodl/article/view/3012/4214
 http://www.irrodl.org/index.php/irrodl/article/view/3012/4206
 
 - no published Canadian studies of students' perceptions of OER; this survey study is the first to investigate the impact of textbooks costs on Canadian students' educational choices; the first to investigate the use and perceptions of Canadian students who have been assigned open textbooks
@@ -22,7 +23,6 @@ http://www.irrodl.org/index.php/irrodl/article/view/3012/4206
 
 
 ### Incentivizing the Production and Use of Open Educational Resources in Higher Education Institutions
-Jhangiani, R. S., & Jhangiani, S. (2017). Investigating the Perceptions, Use, and Impact of Open Textbooks: A survey of Post-Secondary Students in British Columbia. _The International Review of Research in Open and Distributed Learning; Vol 18, No 4 (2017): Special Issue: Outcomes of Openness: Empirical Reports on the Implementation of OER._ Retrieved from http://www.irrodl.org/index.php/irrodl/article/view/3012/4214
 http://www.irrodl.org/index.php/irrodl/article/view/3009/4194
 
 - Why OERs haven't been adopted more widely in higher education? The most significant barrier to OER adoption: too much faculty time was required to locate, evaluate, and incorporate material.
