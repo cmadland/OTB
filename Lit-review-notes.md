@@ -1,4 +1,4 @@
-# Literature Review
+# Literature Review Notes
 
 - most published literature on OTB use is from the US
 - recent Canadian studies (Jhangiani & Jhangiani, 2017) found relevant differences between US and Canada, including lower tuition costs in Canada.
@@ -9,7 +9,7 @@
 
 ### Investigating the Perceptions, Use, and Impact of Open Textbooks: A survey of Post-Secondary Students in British Columbia
 Jhangiani, R. S., & Jhangiani, S. (2017). Investigating the Perceptions, Use, and Impact of Open Textbooks: A survey of Post-Secondary Students in British Columbia. _The International Review of Research in Open and Distributed Learning; Vol 18, No 4 (2017): Special Issue: Outcomes of Openness: Empirical Reports on the Implementation of OER._ Retrieved from http://www.irrodl.org/index.php/irrodl/article/view/3012/4214
-http://www.irrodl.org/index.php/irrodl/article/view/3012/4206
+
 
 - no published Canadian studies of students' perceptions of OER; this survey study is the first to investigate the impact of textbooks costs on Canadian students' educational choices; the first to investigate the use and perceptions of Canadian students who have been assigned open textbooks
 - this study's sample consisted of 320 undergraduate students enrolled in 19 courses at 12 BC post-secondary institutions
@@ -75,3 +75,8 @@ http://www.irrodl.org/index.php/irrodl/article/view/3006/4200
   - 49.4% print
 - 29.5% share w/ classmates
 - 43.1% sell used Books
+
+### Usher, A. (2015, February 26). Data on Textbook Costs.
+Retrieved May 21, 2018, from http://higheredstrategy.com/data-on-textbook-costs/
+
+- as textbook costs rise, the proportion of students who buy all of their required textbooks declines.
