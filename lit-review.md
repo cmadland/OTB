@@ -12,7 +12,7 @@ Hendricks, Reinsberg, & Rieger (2017) found in their investigation of students i
 
 `Kestenbaum, D. (2014, October 9). How college students battled textbook publishers to a draw, in 3 graphs. Retrieved from http://www.npr.org/sections/money/2014/10/09/354647112/how-college-students- battled-textbook-publishers-to-a-draw-in-3-graphs`
 
-`U.S. Bureau of Labor Statistics. (2016, August 30). College tuition and fees increase 63 percent since January 2006. The Economics Daily: U.S. Bureau of Labor Statistics. Retrieved from http://www.bls.gov/opub/ted/2016/college-tuition-and-fees-increase-63-percent-since-january- 2006.htm`
+`U.S. Bureau of Labor Statistics. (2016, August 30). College tuition and fees increase 63 percent since January 2006. The Economics Daily: U.S. Bureau of Labor Statistics. Retrieved from http://www.bls.gov/opub/ted/2016/college-tuition-and-fees-increase-63-percent-since-january-2006.htm`
 
 One explanation for the phenomenon of rising textbook costs and relatively flat student spending on textbooks is that students are being driven away from purchasing textbooks altogether or are seeking alternative sources. Some students will delay purchasing a textbook for a couple of weeks in order to determine whether or not the text is actually required for success. Others will simply not purchase a textbook. It should be apparent that going without required course materials will likely have a negative impact on student outcomes.
 
@@ -21,8 +21,8 @@ Trinity Western University, in Langley, BC, is a small, private liberal arts uni
 As a private university, tuition at TWU is significantly higher than for local public institutions, putting additional financial pressure on students and families. Over 95% of TWU students receive some type of financial aid from the university or from public or private student loans. This puts pressure on the university to maintain fundraising levels.
 
 The purpose of this study was to:
-- guage the level of awareness of OTB among TWU faculty and students
-- guage the number of OTB adoptions among TWU faculty
+- gauge the level of awareness of OTB among TWU faculty and students
+- gauge the number of OTB adoptions among TWU faculty
 - understand more clearly the impact of textbook costs on TWU students
 - understand the textbook purchasing behaviours of TWU students
 - understand the strategies that TWU students use to reduce spending on Textbooks
