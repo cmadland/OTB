@@ -28,8 +28,7 @@ The purpose of this study was to:
 - understand the strategies that TWU students use to reduce spending on Textbooks
 - understand the strategies that students use when they do not purchase required textbooks.
 
-
-
+# Add your content here...or somewhere else...
 # References
 
 Bliss, T. J., Robinson, T., Hilton, J., & Wiley, D. (2013). An OER COUP: College teacher and student perceptions of open education resources. *Journal of Interactive Media in Education, 2013*. https://doi.org/10.5334/2013-04
