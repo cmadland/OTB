@@ -4,7 +4,7 @@ The Bliss, Robinson, Hilton, & Wiley (2013) propose that there are four categori
 
 In June 2017, the International Review of Research in Open and Distributed Learning (IRRODL) published a special issue  devoted to research related to OER adoption and use in education. Included in this special issue were two reports of OER use in Canadian institutions.
 
-Jhangiani and Jhangiani (2017) surveyed 320 students in 19 courses at 12 different institutions in British Columbia and found that students reported spending a median amount of $250 per semester ($500/a) and a mean amount of $350 per semester ($700/a) on textbooks.
+Jhangiani and Jhangiani (2017) surveyed 320 students in 19 courses at 12 different institutions in British Columbia and found that students reported spending a median amount of $250 per semester ($500/a) and a mean amount of $350 per semester ($700/a) on textbooks. According to their survey, most respondents valued the benefits of open textbooks despite the cost (Jhangiani & Jhangiani, 2017).
 
 Hendricks, Reinsberg, & Rieger (2017) found in their investigation of students in a large, first-year physics course at the University of British Columbia, that most students (48%, n=151) reported spending between $100 and $200 per semester ($200-$400/a). Students in their study reported taking 9 courses per year, meaning that they spent only $22-$44 per course on textbooks, a low enough number to warrant further investigation.
 
