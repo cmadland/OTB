@@ -4,11 +4,7 @@ Bliss, Robinson, Hilton, & Wiley (2013) propose that there are four categories o
 
 In June 2017, the International Review of Research in Open and Distributed Learning (IRRODL) published a special issue  devoted to research related to OER adoption and use in education. Included in this special issue were two reports of OER use in Canadian institutions. These two reports are the first two peer-reviewed articles regarding OTB use in Canadian higher education.
 
-<<<<<<< HEAD
 Jhangiani and Jhangiani (2017) surveyed 320 students in 19 courses at 12 different institutions in British Columbia and found that students reported spending a median amount of $250 per semester ($500/a) and a mean amount of $350 per semester ($700/a) on textbooks. They reported that the high cost of textbooks disproportionately affects economically disadvantaged students for several reasons, including extending time to graduation and increasing student loan debt load after graduation.
-=======
-Jhangiani and Jhangiani (2017) surveyed 320 students in 19 courses at 12 different institutions in British Columbia and found that students reported spending a median amount of $250 per semester ($500/a) and a mean amount of $350 per semester ($700/a) on textbooks. According to their survey, most respondents valued the benefits of open textbooks despite the cost (Jhangiani & Jhangiani, 2017).
->>>>>>> f67a58ff5b92d4f97b3e0825b38f0e5a28d0bb79
 
 Hendricks, Reinsberg, & Rieger (2017) found in their investigation of students in a large, first-year physics course at the University of British Columbia, that most students (48%, n=151) reported spending between $100 and $200 per semester ($200-$400/a). Students in their study reported taking 9 courses per year, meaning that they spent only $22-$44 per course on textbooks, a low enough number to warrant further investigation.
 
@@ -23,7 +19,7 @@ With students purchasing fewer textbooks, concerns might be raised about student
 - 26.1% dropped a course.
 - 19.8% failed a course.
 
-All because they couldn't afford to purchase a textbook.
+All because they couldn't afford to purchase a textbook
 
 Trinity Western University, in Langley, BC, is a small, private liberal arts university serving primarily undergraduate students. Based on personal observations and communication with faculty, it seems that there are very few faculty who use OTB as either supplementary or primary resources in their courses. To date, there have been no known surveys of textbook or OTB use at TWU.
 
