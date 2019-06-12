@@ -35,8 +35,7 @@ The purpose of this study was to:
 - understand the strategies that students use when they do not purchase required textbooks
 - establish a baseline of views on the topics above for future comparisons.
 
-
-
+# Add your content here...or somewhere else...
 # References
 
 Bliss, T. J., Robinson, T., Hilton, J., & Wiley, D. (2013). An OER COUP: College teacher and student perceptions of open education resources. *Journal of Interactive Media in Education, 2013*. https://doi.org/10.5334/2013-04
